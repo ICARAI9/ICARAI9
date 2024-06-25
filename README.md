@@ -1,16 +1,14 @@
-## Hi there 👋
+### OI MEU NOME E ICARO AUGUSTO👋
 
-<!--
-**ICARAI9/ICARAI9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
 
-Here are some ideas to get you started:
+![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![academia](https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black)]
+
+
+
+
+
+
+
